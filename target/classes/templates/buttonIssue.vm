@@ -1,0 +1,48 @@
+
+    <button id="dialog-show-button" class="aui-button aui-button-primary">$key</button>
+    <section id="demo-dialog" class="aui-dialog2 aui-dialog2-small aui-layer" role="dialog" aria-hidden="true">
+        <header class="aui-dialog2-header">
+            <h2 class="aui-dialog2-header-main">Find the child's father</h2>
+            <a class="aui-dialog2-header-close">
+                <span class="aui-icon aui-icon-small aui-iconfont-close-dialog">Close</span>
+            </a>
+        </header>
+        <div class="aui-dialog2-content">
+            <form class="aui" action="*">
+                <div class="field-group">
+                    <label for="text-input">Children's name:<span class="aui-icon icon-required">required</span></label>
+                    <aui-select id="async-product-single-select"
+                                name="product"
+                                placeholder="Select a product"
+                                src="products"
+                                value="type to trigger async"
+                                alies="issue"
+                    >$key</aui-select>
+                </div>
+            </form>
+            <form class="aui" action="*">
+                <div class="field-group">
+                    <label for="text-input">Father kid:</label>
+                    <input id="text-input" class="text" type="text" name="text-input" title="Text input">
+                </div>
+            </form>
+        </div>
+        <footer class="aui-dialog2-footer">
+            <div class="aui-dialog2-footer-actions">
+                <button id="dialog-submit-button" class="aui-button aui-button-primary">Submit</button>
+            </div>
+        </footer>
+    </section>
+    <script>
+        AJS.$("#dialog-show-button").click(function(e) {
+            e.preventDefault();
+            AJS.dialog2("#demo-dialog").show();
+        });
+
+        // Hides the dialog
+        AJS.$("#dialog-submit-button").click(function (e) {
+            e.preventDefault();
+            AJS.dialog2("#demo-dialog").hide();
+        });
+
+    </script>

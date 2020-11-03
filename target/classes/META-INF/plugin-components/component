@@ -1,0 +1,15 @@
+com.atlassian.pocketknife.internal.querydsl.DatabaseAccessorImpl
+com.atlassian.pocketknife.internal.querydsl.DatabaseCompatibilityKitImpl
+com.atlassian.pocketknife.internal.querydsl.DatabaseConnectionConverterImpl
+com.atlassian.pocketknife.internal.querydsl.EitherAwareDatabaseAccessorImpl
+com.atlassian.pocketknife.internal.querydsl.OptionalAwareDatabaseAccessorImpl
+com.atlassian.pocketknife.internal.querydsl.cache.PKQCacheClearerImpl
+com.atlassian.pocketknife.internal.querydsl.configuration.ConfigurationEnrichmentImpl
+com.atlassian.pocketknife.internal.querydsl.dialect.DefaultDialectConfiguration
+com.atlassian.pocketknife.internal.querydsl.schema.DatabaseSchemaCreationImpl
+com.atlassian.pocketknife.internal.querydsl.schema.DefaultSchemaProvider
+com.atlassian.pocketknife.internal.querydsl.schema.JdbcTableInspector
+com.atlassian.pocketknife.internal.querydsl.schema.ProductSchemaProvider
+com.atlassian.pocketknife.internal.querydsl.schema.SchemaStateProviderImpl
+com.atlassian.pocketknife.internal.querydsl.stream.StreamingQueryFactoryImpl
+com.atlassian.tutorial.myPlugin.impl.MyPluginComponentImpl#myPluginComponent

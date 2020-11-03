@@ -1,0 +1,29 @@
+{namespace JIRA.Templates.Kudos}
+
+/**
+* Example
+*/
+{template .homeView}
+    {webResourceManager_requireResourcesForContext('jira.example')}
+    <div> Issue:</div>
+    <input id="demo" value="TEST-1">
+    <select id="sel">
+        //<option></option>
+    </select>
+    <button id="demo1">submit</button>
+    <p id="demo2"></p>
+{/template}
+
+/**
+* Example2
+*/
+{template .homeView2}
+    {webResourceManager_requireResourcesForContext('jira.example')}
+    <div class="field-group">
+        <label for="my-user-picker">Users</label>
+        <input class="select long-field" type="text" id="my-user-picker">
+    </div>
+    <button id="demo1">submit</button>
+    <p></p>
+    <img id="avatar" src="">
+{/template}

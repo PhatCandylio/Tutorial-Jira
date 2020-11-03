@@ -1,0 +1,8 @@
+com\atlassian\tutorial\myPlugin\impl\MyPluginComponentImpl.class
+com\atlassian\tutorial\myPlugin\DueDateIndicator.class
+com\atlassian\tutorial\myPlugin\TestProvider.class
+com\atlassian\tutorial\myPlugin\getissue.class
+com\atlassian\tutorial\myPlugin\nut.class
+com\consultingtoolsmiths\jira\samples\webwork\ActionBeta.class
+com\atlassian\tutorial\myPlugin\api\MyPluginComponent.class
+com\atlassian\tutorial\myPlugin\ActionAlpha.class

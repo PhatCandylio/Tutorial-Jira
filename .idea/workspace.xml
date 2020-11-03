@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edc9f919-59cc-4648-a5ec-801981350e97" name="Default Changelist" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Applications/Atlassian/atlassian-plugin-sdk-8.0.16/apache-maven-3.5.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jlvWm5LF08YWSiiZ5GEuOBB6su" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc9f919-59cc-4648-a5ec-801981350e97" name="Default Changelist" comment="" />
+      <created>1604391527840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604391527840</updated>
+      <workItem from="1604391539021" duration="1168000" />
+      <workItem from="1604393396391" duration="1155000" />
+      <workItem from="1604395201156" duration="2608000" />
+      <workItem from="1604397883351" duration="25000" />
+      <workItem from="1604412178531" duration="3568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="58" key="#Deployment" timestamp="1604413949617">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="265" y="58" key="#Deployment/0.0.1344.800@0.0.1344.800" timestamp="1604413949617" />
+    <state x="297" y="0" key="CommitChangelistDialog2" timestamp="1604412281099">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="297" y="0" key="CommitChangelistDialog2/0.0.1344.800@0.0.1344.800" timestamp="1604412281099" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604391963868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-3200.0.1422.760@0.0.1920.1040" timestamp="1604391963868" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1604396733171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040/-3200.0.1422.760@0.0.1920.1040" timestamp="1604396733171" />
+    <state x="306" y="0" key="SettingsEditor" timestamp="1604413967144">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="306" y="0" key="SettingsEditor/0.0.1344.800@0.0.1344.800" timestamp="1604413967144" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-3200.0.1422.760@0.0.1920.1040" timestamp="1604397169881" />
+    <state x="265" y="133" key="Vcs.Push.Dialog.v2" timestamp="1604413279837">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="265" y="133" key="Vcs.Push.Dialog.v2/0.0.1344.800@0.0.1344.800" timestamp="1604413279837" />
+    <state x="790" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1604397532681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="253" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040/-3200.0.1422.760@0.0.1920.1040" timestamp="1604397532681" />
+    <state x="482" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604413317750">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="482" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1344.800@0.0.1344.800" timestamp="1604413317750" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604397193216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3200.0.1422.760@0.0.1920.1040" timestamp="1604397193216" />
+  </component>
+</project>
